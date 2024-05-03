@@ -6,7 +6,7 @@ Tools : Google colab, github, NLTK, Sklearn.
  - [Lab Overview](https://github.com/aymanboufarhi/Rule-based-Regex-and-NLP-Word-embedding?tab=readme-ov-file#lab-overview)
  - [Part 1](https://github.com/aymanboufarhi/Rule-based-Regex-and-NLP-Word-embedding?tab=readme-ov-file#part-1)
  - [Part 2](https://github.com/aymanboufarhi/Rule-based-Regex-and-NLP-Word-embedding?tab=readme-ov-file#part-2)
- - [Text Preprocessing](https://github.com/aymanboufarhi/Rule-based-Regex-and-NLP-Word-embedding?tab=readme-ov-file#evaluation-and-conclusion)
+ - [Evaluation and Conclusion](https://github.com/aymanboufarhi/Rule-based-Regex-and-NLP-Word-embedding?tab=readme-ov-file#evaluation-and-conclusion)
  - [Key Learnings](https://github.com/aymanboufarhi/Rule-based-Regex-and-NLP-Word-embedding?tab=readme-ov-file#key-learnings)
 
 ## Lab Overview
