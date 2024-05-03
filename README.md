@@ -18,9 +18,11 @@ In this part, we focused on utilizing regular expressions (Regex) to extract str
 ## Part 2
 We explored various word embedding techniques to represent words in a numerical vector space, enabling machines to understand and process textual data effectively.
 
-1- One-Hot Encoding, Bag of Words, TF-IDF: Traditional techniques to convert text data into numerical vectors, capturing word frequency and importance.
-2- Word2Vec (Skip-gram, CBOW): Neural network-based models to learn distributed representations of words, capturing semantic relationships.
-3- GloVe and FastText: Techniques leveraging co-occurrence statistics and subword information, respectively, to generate word vectors.
+- One-Hot Encoding, Bag of Words, TF-IDF : Traditional techniques to convert text data into numerical vectors, capturing word frequency and importance.
+
+- Word2Vec (Skip-gram, CBOW) : Neural network-based models to learn distributed representations of words, capturing semantic relationships.
+
+- GloVe and FastText : Techniques leveraging co-occurrence statistics and subword information, respectively, to generate word vectors.
 
 ## Evaluation and Conclusion
 Visualizations using t-Distributed Stochastic Neighbor Embedding (t-SNE) provided insights into the performance and effectiveness of encoded word vectors. While traditional techniques like one-hot encoding and Bag of Words offer simplicity, they may lack in capturing semantic relationships. Neural network-based methods like Word2Vec, GloVe, and FastText provide more nuanced representations, enabling better understanding of word semantics and relationships.
